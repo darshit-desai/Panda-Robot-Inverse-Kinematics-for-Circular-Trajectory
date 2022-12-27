@@ -12,11 +12,7 @@ a. File organization of Homework 4
 	
 		|_darshit_code.ipynb (Code)
 		
-			|_darshit_code.ipynb:(Python notebook script file containing code): Contains derivation of Jacobian Matrix, and 
-			
-				iterative loop for FK and IK of robot end effector pose; 
-			
-				Note some matrices are too large to attach in report refer this code's output for proper display
+			|_darshit_code.ipynb:(Python notebook script file containing code): Contains derivation of Jacobian Matrix, and iterative loop for 						FK and IK of robot end effector pose; Note some matrices are too large to attach in report refer this code's 						  output for proper display
 	
 	3. Readme
 	
