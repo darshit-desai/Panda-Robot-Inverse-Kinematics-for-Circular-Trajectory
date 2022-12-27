@@ -12,7 +12,7 @@ a. File organization of Homework 4
 			Note some matrices are too large to attach in report refer this code's output for proper display
 	3. Readme
 	4. Results folder (Contains images of 2d Y-Z Plot and 3d X-Y-Z Plot for end effector)
-#################################################################################
+	
 b. Code running instructions:
 
 	Question 1:
