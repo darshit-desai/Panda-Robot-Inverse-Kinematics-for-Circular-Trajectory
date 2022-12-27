@@ -1,16 +1,25 @@
 -->Open this file in maximized Text editor if opening in Ubuntu
 #####################################README#####################################
+
 AUTHOR: DARSHIT DESAI
-################################################################################
+
 a. File organization of Homework 4
+	
 	1. darshit_hw4_report.pdf: Main assignment file-contains derivations of both questions and assumptions taken. Recommended to refer 
 	   first before inspecting the code and plots
+	
 	2. Code files (Folder, Python notebooks and scripts): Note this folder contains .ipynb files.
+	
 		|_darshit_code.ipynb (Code)
+		
 			|_darshit_code.ipynb:(Python notebook script file containing code): Contains derivation of Jacobian Matrix, and 
-			iterative loop for FK and IK of robot end effector pose; 
-			Note some matrices are too large to attach in report refer this code's output for proper display
+			
+				iterative loop for FK and IK of robot end effector pose; 
+			
+				Note some matrices are too large to attach in report refer this code's output for proper display
+	
 	3. Readme
+	
 	4. Results folder (Contains images of 2d Y-Z Plot and 3d X-Y-Z Plot for end effector)
 	
 b. Code running instructions:
