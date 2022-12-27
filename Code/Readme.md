@@ -1,8 +1,10 @@
 -->Open this file in maximized Text editor if opening in Ubuntu
 #####################################README#####################################
+
 AUTHOR: DARSHIT DESAI
 
 a. File organization of Homework 4
+
 	1. darshit_hw4_report.pdf: Main assignment file-contains derivations of both questions and assumptions taken. Recommended to refer 
 	   first before inspecting the code and plots
 	2. Code files (Folder, Python notebooks and scripts): Note this folder contains .ipynb files.
@@ -23,6 +25,7 @@ b. Code running instructions:
 			Step 2: Run the python file in Jupyter notebook darshit_code.ipynb or by pressing Run all in Vscode
 			Step 3: The code will show the result equations for reference
 c. References:
+
 	a. Lecture 8 and Lecture 9 pdf files
 	b. Sympy documentation
 	c. Matplotlib documentation
